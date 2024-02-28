@@ -102,7 +102,7 @@
           <configuration>
 				<suiteXmlFiles>
 				<suiteXmlFile>
-				                            testng1.xml
+				                            testng11.xml
 				</suiteXmlFile>
 				</suiteXmlFiles>
 		</configuration>
